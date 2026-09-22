@@ -8,7 +8,7 @@
     "/home/box/workspace/black-box-holdings/agentic-insanity/out/reel-claude-banked-reset/05.png"
   ],
   "mp4": "/home/box/workspace/black-box-holdings/agentic-insanity/out/reel-claude-banked-reset/reel.mp4",
-  "duration_s": 20.5,
+  "duration_s": 21.0,
   "size": "1080x1920",
   "silent": true,
   "buffer": false,
@@ -27,6 +27,7 @@
     "bg88.jpg",
     "bg89.jpg"
   ],
+  "bgs_reused": true,
   "pexels_ids": [
     "3129671",
     "3141207",
@@ -34,6 +35,8 @@
     "5725955",
     "7989428"
   ],
+  "receipt": "/home/box/workspace/black-box-holdings/agentic-insanity/out/reel-claude-banked-reset/receipt-claude-resets-banner.png",
+  "cache_bust_target": "v=thu1b",
   "story": [
     {
       "file": "01.png",
@@ -48,6 +51,7 @@
         "Most people will miss it."
       ],
       "pexels": "3129671",
+      "receipt_on_screen": false,
       "on_screen": {
         "chip": "",
         "title_lines": [
@@ -58,7 +62,8 @@
         "body_lines": [
           "Most people will miss it."
         ],
-        "footer": "@agentic_insanity"
+        "footer": "@agentic_insanity",
+        "receipt_image": null
       }
     },
     {
@@ -68,12 +73,13 @@
         "Opus got cheaper, so",
         "limits stretch further"
       ],
-      "body": "Opus 5.5 is priced lower. That means your limits go about 25% further.",
+      "body": "Opus 5.5 is priced lower. Extra wiggle room to explore Opus 5.5.",
       "body_lines": [
         "Opus 5.5 is priced lower.",
-        "That means your limits go about 25% further."
+        "Extra wiggle room to explore Opus 5.5."
       ],
       "pexels": "3141207",
+      "receipt_on_screen": false,
       "on_screen": {
         "chip": "",
         "title_lines": [
@@ -82,61 +88,64 @@
         ],
         "body_lines": [
           "Opus 5.5 is priced lower.",
-          "That means your limits go about 25% further."
+          "Extra wiggle room to explore Opus 5.5."
         ],
-        "footer": "@agentic_insanity"
+        "footer": "@agentic_insanity",
+        "receipt_image": null
       }
     },
     {
       "file": "03.png",
-      "title": "Pro and Max got a banked reset",
+      "title": "Look for Resets. Tap Reset for free",
       "title_lines": [
-        "Pro and Max got a",
-        "banked reset"
+        "Look for Resets. Tap",
+        "Reset for free"
       ],
-      "body": "Anthropic says you can save it and use it anytime.",
+      "body": "It is opt-in banked, not an auto meter flip. Expires Oct 22.",
       "body_lines": [
-        "Anthropic says you can save it and use it",
-        "anytime."
+        "It is opt-in banked, not an auto meter flip.",
+        "Expires Oct 22."
       ],
       "pexels": "3141211",
+      "receipt_on_screen": false,
       "on_screen": {
         "chip": "",
         "title_lines": [
-          "Pro and Max got a",
-          "banked reset"
+          "Look for Resets. Tap",
+          "Reset for free"
         ],
         "body_lines": [
-          "Anthropic says you can save it and use it",
-          "anytime."
+          "It is opt-in banked, not an auto meter flip.",
+          "Expires Oct 22."
         ],
-        "footer": "@agentic_insanity"
+        "footer": "@agentic_insanity",
+        "receipt_image": null
       }
     },
     {
       "file": "04.png",
-      "title": "Your meter may not look flipped",
+      "title": "This is the Claude UI",
       "title_lines": [
-        "Your meter may not",
-        "look flipped"
+        "This is the Claude UI"
       ],
-      "body": "It sits as banked credit. Check banked credits, not just the usage bar.",
+      "body": "Resets. Extra wiggle room for Opus 5.5. Expires Oct 22. Reset for free.",
       "body_lines": [
-        "It sits as banked credit.",
-        "Check banked credits, not just the usage bar."
+        "Resets. Extra wiggle room for Opus 5.5. Expires Oct 22.",
+        "Reset for free."
       ],
       "pexels": "5725955",
+      "receipt_on_screen": true,
       "on_screen": {
         "chip": "",
         "title_lines": [
-          "Your meter may not",
-          "look flipped"
+          "This is the Claude UI"
         ],
         "body_lines": [
-          "It sits as banked credit.",
-          "Check banked credits, not just the usage bar."
+          "Resets. Extra wiggle room for Opus 5.5. Expires Oct 22.",
+          "Reset for free."
         ],
-        "footer": "@agentic_insanity"
+        "footer": "@agentic_insanity",
+        "receipt_image": "receipt-claude-resets-banner.png"
       }
     },
     {
@@ -151,6 +160,7 @@
         "True AI usage news that is easy to understand."
       ],
       "pexels": "7989428",
+      "receipt_on_screen": false,
       "on_screen": {
         "chip": "",
         "title_lines": [
@@ -160,8 +170,10 @@
         "body_lines": [
           "True AI usage news that is easy to understand."
         ],
-        "footer": "@agentic_insanity"
+        "footer": "@agentic_insanity",
+        "receipt_image": null
       }
     }
-  ]
+  ],
+  "patched_at": "2026-09-22T22:27:20.498284+00:00"
 }

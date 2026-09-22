@@ -1,10 +1,10 @@
 Claude just banked you a reset. Most people will miss it.
 
-With Opus 5.5, Anthropic cut Opus pricing and said limits go further (about 25% within the same caps, per TokenResets ledger). Pro, Max, and Team also get a rate limit reset you can save and use anytime. Official line: subscription users get a rate limit reset you can save and use whenever you choose.
+With Opus 5.5, Anthropic cut Opus pricing and said limits go further (about 25% within the same caps, per TokenResets ledger). Pro, Max, and Team also get a rate limit reset you can save and use anytime.
 
-Marc saw it as a banked reset in Claude cloud (not Codex). Your usage meter may not look flipped. Check banked credits.
+Marc's Claude cloud UI shows the real receipt: look for Resets, then tap Reset for free. Extra wiggle room to explore Opus 5.5. Expires Oct 22. It is opt-in banked, not an auto meter flip. Your usage meter may not look flipped.
 
-Receipts: anthropic.com/claude-opus-5-5 (Sep 22, 2026) + tokenresets.com/events/anthropic-claude-hard-reset-2026-09-22-3884b1ea88 (verified, evidence @ClaudeDevs). Announced ~2026-09-22T16:44:06Z.
+Receipts: Marc Claude UI screenshot (Resets / Reset for free / Expires Oct 22) + anthropic.com/claude-opus-5-5 (Sep 22, 2026) + tokenresets.com/events/anthropic-claude-hard-reset-2026-09-22-3884b1ea88 (verified, evidence @ClaudeDevs).
 
 Follow @agentic_insanity for true AI usage news that is easy to understand.
 
