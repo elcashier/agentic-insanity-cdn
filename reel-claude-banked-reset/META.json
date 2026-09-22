@@ -1,0 +1,167 @@
+{
+  "folder": "/home/box/workspace/black-box-holdings/agentic-insanity/out/reel-claude-banked-reset",
+  "frames": [
+    "/home/box/workspace/black-box-holdings/agentic-insanity/out/reel-claude-banked-reset/01.png",
+    "/home/box/workspace/black-box-holdings/agentic-insanity/out/reel-claude-banked-reset/02.png",
+    "/home/box/workspace/black-box-holdings/agentic-insanity/out/reel-claude-banked-reset/03.png",
+    "/home/box/workspace/black-box-holdings/agentic-insanity/out/reel-claude-banked-reset/04.png",
+    "/home/box/workspace/black-box-holdings/agentic-insanity/out/reel-claude-banked-reset/05.png"
+  ],
+  "mp4": "/home/box/workspace/black-box-holdings/agentic-insanity/out/reel-claude-banked-reset/reel.mp4",
+  "duration_s": 20.5,
+  "size": "1080x1920",
+  "silent": true,
+  "buffer": false,
+  "motion": "stock-video",
+  "safe_box": {
+    "x0": 140,
+    "y0": 200,
+    "x1": 940,
+    "y1": 1680,
+    "frame_pad": 40
+  },
+  "bgs_burned": [
+    "bg85.jpg",
+    "bg86.jpg",
+    "bg87.jpg",
+    "bg88.jpg",
+    "bg89.jpg"
+  ],
+  "pexels_ids": [
+    "3129671",
+    "3141207",
+    "3141211",
+    "5725955",
+    "7989428"
+  ],
+  "story": [
+    {
+      "file": "01.png",
+      "title": "Claude just banked you a reset",
+      "title_lines": [
+        "Claude just",
+        "banked you a",
+        "reset"
+      ],
+      "body": "Most people will miss it.",
+      "body_lines": [
+        "Most people will miss it."
+      ],
+      "pexels": "3129671",
+      "on_screen": {
+        "chip": "",
+        "title_lines": [
+          "Claude just",
+          "banked you a",
+          "reset"
+        ],
+        "body_lines": [
+          "Most people will miss it."
+        ],
+        "footer": "@agentic_insanity"
+      }
+    },
+    {
+      "file": "02.png",
+      "title": "Opus got cheaper, so limits stretch further",
+      "title_lines": [
+        "Opus got cheaper, so",
+        "limits stretch further"
+      ],
+      "body": "Opus 5.5 is priced lower. That means your limits go about 25% further.",
+      "body_lines": [
+        "Opus 5.5 is priced lower.",
+        "That means your limits go about 25% further."
+      ],
+      "pexels": "3141207",
+      "on_screen": {
+        "chip": "",
+        "title_lines": [
+          "Opus got cheaper, so",
+          "limits stretch further"
+        ],
+        "body_lines": [
+          "Opus 5.5 is priced lower.",
+          "That means your limits go about 25% further."
+        ],
+        "footer": "@agentic_insanity"
+      }
+    },
+    {
+      "file": "03.png",
+      "title": "Pro and Max got a banked reset",
+      "title_lines": [
+        "Pro and Max got a",
+        "banked reset"
+      ],
+      "body": "Anthropic says you can save it and use it anytime.",
+      "body_lines": [
+        "Anthropic says you can save it and use it",
+        "anytime."
+      ],
+      "pexels": "3141211",
+      "on_screen": {
+        "chip": "",
+        "title_lines": [
+          "Pro and Max got a",
+          "banked reset"
+        ],
+        "body_lines": [
+          "Anthropic says you can save it and use it",
+          "anytime."
+        ],
+        "footer": "@agentic_insanity"
+      }
+    },
+    {
+      "file": "04.png",
+      "title": "Your meter may not look flipped",
+      "title_lines": [
+        "Your meter may not",
+        "look flipped"
+      ],
+      "body": "It sits as banked credit. Check banked credits, not just the usage bar.",
+      "body_lines": [
+        "It sits as banked credit.",
+        "Check banked credits, not just the usage bar."
+      ],
+      "pexels": "5725955",
+      "on_screen": {
+        "chip": "",
+        "title_lines": [
+          "Your meter may not",
+          "look flipped"
+        ],
+        "body_lines": [
+          "It sits as banked credit.",
+          "Check banked credits, not just the usage bar."
+        ],
+        "footer": "@agentic_insanity"
+      }
+    },
+    {
+      "file": "05.png",
+      "title": "Follow @agentic_insanity",
+      "title_lines": [
+        "Follow",
+        "@agentic_insanity"
+      ],
+      "body": "True AI usage news that is easy to understand.",
+      "body_lines": [
+        "True AI usage news that is easy to understand."
+      ],
+      "pexels": "7989428",
+      "on_screen": {
+        "chip": "",
+        "title_lines": [
+          "Follow",
+          "@agentic_insanity"
+        ],
+        "body_lines": [
+          "True AI usage news that is easy to understand."
+        ],
+        "footer": "@agentic_insanity"
+      }
+    }
+  ]
+}
