@@ -1,0 +1,114 @@
+{
+  "folder": "carousel-news-historypoison",
+  "story": "HistoryPoison \u2014 Darktrace conversation-history agent hijack",
+  "dueAt": "2026-10-01T12:15:00.000Z",
+  "vienna": "Thu 01 Oct 2026 14:15",
+  "cache_bust": "v=thu2",
+  "hook": "One shady package. Rewrite the agent's memory. It thinks it's your red team.",
+  "lesson": "Client-side unsigned conversation history is a trust boundary; MCP/plugin install = payload pipe.",
+  "bgs": [
+    "bg140.jpg",
+    "bg141.jpg",
+    "bg142.jpg",
+    "bg143.jpg",
+    "bg144.jpg",
+    "bg145.jpg"
+  ],
+  "slides": [
+    {
+      "name": "01-cover.png",
+      "bg": "bg140.jpg",
+      "title": [
+        "One shady package.",
+        "Rewrite the",
+        "agent's memory."
+      ],
+      "body": "HistoryPoison \u00b7 Darktrace \u00b7 Sep 24 2026. It thinks it is your red team. Swipe.",
+      "anchor": "bl",
+      "chip_side": "right",
+      "title_size": 52,
+      "body_size": 26,
+      "body_max_w": 640
+    },
+    {
+      "name": "02.png",
+      "bg": "bg141.jpg",
+      "title": [
+        "Claude Code.",
+        "Codex. Kiro.",
+        "Pi. Unsigned",
+        "local history."
+      ],
+      "body": "Darktrace: coding agents store conversation history on disk without crypto signatures. Client-side memory is a trust boundary.",
+      "anchor": "br",
+      "chip_side": "left",
+      "title_size": 48,
+      "body_size": 25,
+      "body_max_w": 600
+    },
+    {
+      "name": "03.png",
+      "bg": "bg142.jpg",
+      "title": [
+        "Poison the history.",
+        "The agent believes",
+        "it already said yes."
+      ],
+      "body": "Malicious package install rewrites the harness DB. Agent convinced it is authorized red-team. Host enum. Lateral move. Full AD takeover in the lab.",
+      "anchor": "bl",
+      "chip_side": "right",
+      "title_size": 48,
+      "body_size": 25,
+      "body_max_w": 620
+    },
+    {
+      "name": "04.png",
+      "bg": "bg143.jpg",
+      "title": [
+        "MCP and plugins",
+        "are the payload",
+        "pipe."
+      ],
+      "body": "Install path into the harness DB beats jailbreaks. Disclosed to Anthropic, AWS, OpenAI Aug 18. Published Sep 24 after 30 days.",
+      "anchor": "br",
+      "chip_side": "left",
+      "title_size": 52,
+      "body_size": 25,
+      "body_max_w": 600
+    },
+    {
+      "name": "05.png",
+      "bg": "bg144.jpg",
+      "title": [
+        "Fix: sign the",
+        "model responses.",
+        "Verify server-side."
+      ],
+      "body": "Client-side history without signatures is not a log. It is an attack surface. Providers own the crypto - not your laptop.",
+      "anchor": "bl",
+      "chip_side": "right",
+      "title_size": 50,
+      "body_size": 26,
+      "body_max_w": 640
+    },
+    {
+      "name": "06.png",
+      "bg": "bg145.jpg",
+      "title": [
+        "If memory can",
+        "be edited,",
+        "trust is cosplay."
+      ],
+      "body": "Save this. Follow @agentic_insanity for agent wreckage with receipts.",
+      "anchor": "br",
+      "chip_side": "left",
+      "title_size": 52,
+      "body_size": 26,
+      "body_max_w": 600
+    }
+  ],
+  "sources": [
+    "https://www.darktrace.com/blog/hijacking-agentic-harnesses-to-attack-an-organization",
+    "https://forkast.news/darktrace-proved-that-ai-agent-tools-can-be-hijacked-through-their-own-memory-and-the-fix-is-out-of-your-hands/"
+  ]
+}
