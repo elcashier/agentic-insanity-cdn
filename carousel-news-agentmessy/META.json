@@ -1,0 +1,120 @@
+{
+  "folder": "carousel-news-agentmessy",
+  "story": "AgentMessy \u2014 DIVD owned by autonomous AI agent via Zammad 0-days",
+  "dueAt": "2026-10-01T08:30:00.000Z",
+  "vienna": "Thu 01 Oct 2026 10:30",
+  "cache_bust": "v=thu1",
+  "hook": "The vuln-hunters got hunted. An AI agent owned them.",
+  "lesson": "Post-exploit at machine speed beats human IR tempo; segmentation + kill-switch still matter.",
+  "bgs": [
+    "bg134.jpg",
+    "bg135.jpg",
+    "bg136.jpg",
+    "bg137.jpg",
+    "bg138.jpg",
+    "bg139.jpg"
+  ],
+  "slides": [
+    {
+      "name": "01-cover.png",
+      "bg": "bg134.jpg",
+      "title": [
+        "The vuln-hunters",
+        "got hunted.",
+        "An AI agent",
+        "owned them."
+      ],
+      "body": "AgentMessy \u00b7 DIVD / Zammad 0-days \u00b7 Sep 21\u201330 2026. Loud. Messy. Autonomous. Swipe.",
+      "anchor": "bl",
+      "chip_side": "right",
+      "title_size": 52,
+      "body_size": 26,
+      "body_max_w": 640
+    },
+    {
+      "name": "02.png",
+      "bg": "bg135.jpg",
+      "title": [
+        "Zammad helpdesk.",
+        "Two zero-days.",
+        "Root in minutes."
+      ],
+      "body": "CVE-2026-102489: session hijack to RCE. CVE-2026-102490: priv-esc to root. Dutch Institute for Vulnerability Disclosure (DIVD) breached Sep 21.",
+      "anchor": "br",
+      "chip_side": "left",
+      "title_size": 48,
+      "body_size": 25,
+      "body_max_w": 600
+    },
+    {
+      "name": "03.png",
+      "bg": "bg136.jpg",
+      "title": [
+        "Then they",
+        "dropped an",
+        "AI agent for",
+        "post-exploit."
+      ],
+      "body": "Not a human clicking. An automated agent decided next steps itself \"at the speed of light.\" Password-sprayed into its own AiTM. Over-documented every choice.",
+      "anchor": "bl",
+      "chip_side": "right",
+      "title_size": 52,
+      "body_size": 25,
+      "body_max_w": 620
+    },
+    {
+      "name": "04.png",
+      "bg": "bg137.jpg",
+      "title": [
+        "Loud.",
+        "Very, very",
+        "messy.",
+        "Still rooted",
+        "them."
+      ],
+      "body": "DIVD's words. Merlon Security co-found. NCSC alert. Even a sloppy agent that over-explains itself still outruns human IR tempo.",
+      "anchor": "br",
+      "chip_side": "left",
+      "title_size": 56,
+      "body_size": 25,
+      "body_max_w": 600
+    },
+    {
+      "name": "05.png",
+      "bg": "bg138.jpg",
+      "title": [
+        "Patch Zammad",
+        "v7 \u2014 or take",
+        "it offline."
+      ],
+      "body": "Segmentation + kill-switch still matter when the attacker is an agent. Post-exploit at machine speed beats your SOC's coffee break.",
+      "anchor": "bl",
+      "chip_side": "right",
+      "title_size": 52,
+      "body_size": 26,
+      "body_max_w": 640
+    },
+    {
+      "name": "06.png",
+      "bg": "bg139.jpg",
+      "title": [
+        "Machine-speed",
+        "IR is not",
+        "optional",
+        "anymore."
+      ],
+      "body": "Save this. Follow @agentic_insanity for agent wreckage with receipts.",
+      "anchor": "br",
+      "chip_side": "left",
+      "title_size": 52,
+      "body_size": 26,
+      "body_max_w": 600
+    }
+  ],
+  "sources": [
+    "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
+    "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
+    "https://www.cve.org/CVERecord?id=CVE-2026-102489",
+    "https://www.ncsc.nl/alerts/actief-misbruik-van-zeroday-kwetsbaarheden-in-zammad-update-nu"
+  ]
+}
