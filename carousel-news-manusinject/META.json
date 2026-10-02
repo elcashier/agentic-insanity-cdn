@@ -1,0 +1,115 @@
+{
+  "folder": "carousel-news-manusinject",
+  "story": "ManusInject \u2014 Salt Labs email\u2192JSFuck\u2192RCE on $4B Manus agent",
+  "dueAt": "2026-10-02T08:30:00.000Z",
+  "vienna": "Fri 02 Oct 2026 10:30",
+  "cache_bust": "v=fri1",
+  "hook": "One email. No click. Your $4B agent ran the payload \u2014 then warned you.",
+  "lesson": "Guardrails that fire after execution are theater. Inbox content in an agent context = untrusted code; connected OAuth tokens are the prize.",
+  "bgs": [
+    "bg146.jpg",
+    "bg147.jpg",
+    "bg148.jpg",
+    "bg149.jpg",
+    "bg150.jpg",
+    "bg151.jpg"
+  ],
+  "slides": [
+    {
+      "name": "01-cover.png",
+      "title": [
+        "One email.",
+        "No click.",
+        "Your $4B",
+        "agent ran it."
+      ],
+      "body": "ManusInject \u00b7 Salt Labs \u00b7 Sep 24 2026. Then it warned you. Swipe.",
+      "anchor": "bl",
+      "chip_side": "right",
+      "title_size": 52,
+      "body_size": 26,
+      "body_max_w": 640,
+      "bg": "bg146.jpg"
+    },
+    {
+      "name": "02.png",
+      "title": [
+        "Inbox was the",
+        "payload pipe.",
+        "Gmail connected."
+      ],
+      "body": "Salt Labs: indirect prompt injection into Manus via a linked Gmail inbox. No victim click required.",
+      "anchor": "br",
+      "chip_side": "left",
+      "title_size": 48,
+      "body_size": 25,
+      "body_max_w": 600,
+      "bg": "bg147.jpg"
+    },
+    {
+      "name": "03.png",
+      "title": [
+        "Plaintext whoami",
+        "warned. JSFuck",
+        "ran first."
+      ],
+      "body": "Filter caught the obvious string. Obfuscation bypassed it \u2014 payload executed, warning second. Guardrails after the fact are theater.",
+      "anchor": "bl",
+      "chip_side": "right",
+      "title_size": 48,
+      "body_size": 25,
+      "body_max_w": 620,
+      "bg": "bg148.jpg"
+    },
+    {
+      "name": "04.png",
+      "title": [
+        "RCE. Reverse",
+        "shell. Loot the",
+        "OAuth tokens."
+      ],
+      "body": "Researchers opened a shell, then harvested credentials for connected apps \u2014 Gmail, Dropbox, GitHub. The agent was the vault key.",
+      "anchor": "br",
+      "chip_side": "left",
+      "title_size": 50,
+      "body_size": 25,
+      "body_max_w": 600,
+      "bg": "bg149.jpg"
+    },
+    {
+      "name": "05.png",
+      "title": [
+        "Manus ignored",
+        "the report.",
+        "Meta patched it."
+      ],
+      "body": "Bug bounty during a failed acquisition window. Manus seeking a ~$4B raise while the inbox was still a code path.",
+      "anchor": "bl",
+      "chip_side": "right",
+      "title_size": 50,
+      "body_size": 26,
+      "body_max_w": 640,
+      "bg": "bg150.jpg"
+    },
+    {
+      "name": "06.png",
+      "title": [
+        "If the inbox is",
+        "in context, treat",
+        "it as untrusted",
+        "code."
+      ],
+      "body": "Save this. Follow @agentic_insanity for agent wreckage with receipts.",
+      "anchor": "br",
+      "chip_side": "left",
+      "title_size": 46,
+      "body_size": 26,
+      "body_max_w": 600,
+      "bg": "bg151.jpg"
+    }
+  ],
+  "sources": [
+    "https://www.darkreading.com/application-security/prompt-injection-bug-agentic-ai-app-manus",
+    "https://al-ice.ai/posts/2026/09/manus-prompt-injection-jsfuck-rce-third-party-token-theft/"
+  ]
+}
